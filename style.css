@@ -1,0 +1,24 @@
+body {
+  background-image: url("superBackground.jpg");
+  background-size: cover;
+  background-color: beige;
+  color: rgb(70, 37, 92);
+}
+
+.container {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+#super-magic-reference {
+  color: rgb(99, 46, 148);
+  font-size: 55px;
+  font-weight: 700;
+}
+
+#super-magic-btn {
+  padding: 10px;
+}
